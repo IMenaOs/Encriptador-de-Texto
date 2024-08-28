@@ -16,9 +16,13 @@ La letra "i" es convertida en "imes"
 La letra "a" es convertida en "ai"
 La letra "o" es convertida en "ober"
 La letra "u" es convertida en "ufat"
-🔨Funcionalidades
-Funcionalidad 1: Debe funcionar solo con letras minúsculas.
-Funcionalidad 2: No deben ser utilizados letras con acentos ni caracteres especiales.
-Funcionalidad 3: Debe ser posible convertir una palabra para que la versión encriptada también devolver la palabra encriptada a su versión original. Por ejemplo: "gato" => "gaitober" y "gaitober" => "gato".
-Funcionalidad 4: La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.
-Funcionalidad 5: El resultado debe ser mostrado en pantalla.
+
+<h2>🔨Funcionalidades<h2>
+<ul>
+<li>Funcionalidad 1: Debe funcionar solo con letras minúsculas.</li>
+<li>Funcionalidad 2: No deben ser utilizados letras con acentos ni caracteres especiales.</li>
+<li>
+Funcionalidad 3: Debe ser posible convertir una palabra para que la versión encriptada también devolver la palabra encriptada a su versión original. Por ejemplo: "gato" => "gaitober" y "gaitober" => "gato".</li>
+<liFuncionalidad 4: La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.></li>
+<li>Funcionalidad 5: El resultado debe ser mostrado en pantalla.</li>
+</ul>

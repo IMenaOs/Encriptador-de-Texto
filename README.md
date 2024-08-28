@@ -17,7 +17,7 @@ La letra "a" es convertida en "ai"
 La letra "o" es convertida en "ober"
 La letra "u" es convertida en "ufat"
 
-<h2>🔨Funcionalidades<h2>
+<h2>🔨Funcionalidades</h2>
 <ul>
 <li>Funcionalidad 1: Debe funcionar solo con letras minúsculas.</li>
 <li>Funcionalidad 2: No deben ser utilizados letras con acentos ni caracteres especiales.</li>
